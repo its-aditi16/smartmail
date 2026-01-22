@@ -1,0 +1,65 @@
+SMARTMAIL VOICE COMMANDS REFERENCE
+================================
+
+1. Email Navigation Commands
+--------------------------
+- "Read body" / "Read email" - Reads the content of the current email
+- "Go on" / "Next" / "Continue" - Moves to the next email
+- "Previous" / "Go back" - Moves to the previous email
+- "First email" - Jumps to the first email in the list
+- "Last email" - Jumps to the last email in the list
+
+2. Email Management Commands
+--------------------------
+- "Mark as unread" - Marks the current email as unread
+- "Mark as read" - Marks the current email as read
+- "Delete" / "Delete email" - Deletes the current email
+- "Star" / "Mark as important" - Adds a star to the current email
+- "Archive" - Archives the current email
+- "Move to trash" - Moves the current email to trash
+
+3. Tab Navigation Commands
+------------------------
+- "Switch to inbox" - Switches to the inbox tab
+- "Switch to starred" - Switches to the starred emails tab
+- "Switch to sent" - Switches to the sent emails tab
+- "Switch to drafts" - Switches to the drafts tab
+- "Switch to trash" - Switches to the trash tab
+
+4. Search Commands
+----------------
+- "Search for [query]" - Searches emails for the specified query
+- "Search unread" - Shows all unread emails
+- "Search from [sender]" - Searches emails from a specific sender
+- "Search with label [label]" - Searches emails with a specific label
+
+5. Reading Control Commands
+-------------------------
+- "Stop reading" - Pauses the current reading
+- "Start reading" - Resumes reading
+- "Read faster" - Increases reading speed
+- "Read slower" - Decreases reading speed
+- "Repeat" - Repeats the last read content
+
+6. Email Statistics Commands
+--------------------------
+- "How many emails" - Shows total number of emails
+- "How many unread" - Shows number of unread emails
+- "Show statistics" - Displays email statistics
+
+7. System Control Commands
+------------------------
+- "Start listening" - Activates voice recognition
+- "Stop listening" - Deactivates voice recognition
+- "Help" - Lists available commands
+- "What can you do" - Explains available features
+
+8. Special Commands
+-----------------
+- "Read headers" - Reads email metadata (sender, subject, date)
+- "Read labels" - Reads the labels/tags of the current email
+- "Show attachments" - Lists attachments in the current email
+- "Read attachment [name]" - Reads the content of a specific attachment
+
+Note: All commands are case-insensitive and can be spoken naturally.
+For example, "Could you please read the next email?" will work the same as "Next email". 

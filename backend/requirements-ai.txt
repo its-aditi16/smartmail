@@ -1,0 +1,6 @@
+langchain==0.1.0
+langchain-community==0.0.16
+ollama==0.1.6
+pyttsx3==2.90
+faster-whisper==0.10.0
+sounddevice==0.4.6 

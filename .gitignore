@@ -16,4 +16,12 @@ build/
 .DS_Store
 *.pickle
 token.pickle
+token.json
+client_secrets.json
+credentials/
+backend/token.pickle
+backend/token.json
+backend/client_secrets.json
+backend/credentials/
+
 

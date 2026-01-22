@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+langchain
+langchain-community
+pydantic>=2.0.0
+pyttsx3
+faster-whisper
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+cors
+sounddevice
+ollama

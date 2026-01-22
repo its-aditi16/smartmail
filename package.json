@@ -1,0 +1,20 @@
+{
+  "name": "smartmail",
+  "version": "1.0.0",
+  "description": "Smartmail is a voice-controlled email assistant that helps you manage your Gmail inbox hands-free. It uses natural language processing and voice recognition to read and manage your emails.",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && python app.py",
+    "install-all": "concurrently \"cd frontend && npm install\" \"cd backend && pip install -r requirements.txt\"",
+    "dev": "concurrently \"npm run frontend\" \"npm run backend\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
